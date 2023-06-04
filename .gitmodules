@@ -1,0 +1,3 @@
+[submodule "web/themes/custom/qedtheme"]
+	path = web/themes/custom/qedtheme
+	url = https://github.com/emulsify-ds/emulsify-drupal.git
